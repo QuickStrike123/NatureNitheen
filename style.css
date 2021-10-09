@@ -1,0 +1,33 @@
+body{
+    
+    background-image: linear-gradient(orchid , cyan);
+    
+    text-align: center;
+    
+}
+
+img{
+
+    height: 250px;
+
+    width: 250px;
+
+}
+
+.ImageSection{
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+.ImageSection2090{
+
+    margin-right: 20px;
+
+    margin-left: 20px;
+
+    background-color: white;
+
+}
